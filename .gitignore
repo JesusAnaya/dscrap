@@ -1,0 +1,8 @@
+*.pyc
+*.pyo
+
+*.db
+*.sqlite
+*.sqlite3
+
+*.sublime-*
